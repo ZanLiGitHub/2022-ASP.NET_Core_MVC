@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "czZHI+Qluaas1w1RcvMvblHFDRrAnffrSipmbqaE1TOO3Vs4L2qdSLD01ae58ChOAxpYj0hrXMtxQzG0w/pVzQ==",
+  "dgSpecHash": "A6sd4AOZJckaHe3XxgrGaqGInhpLkc+EaT+tc1RqyRdcZoC3DDqHlHzQPBoHxPYpeHTw8krmnTwaHLR/XfrqKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zanli\\Downloads\\Github\\2022-ASP.NET Core MVC\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "projectFilePath": "C:\\Users\\zanli\\Downloads\\Github\\2022-ASP.NET_Core_MVC\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zanli\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\zanli\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

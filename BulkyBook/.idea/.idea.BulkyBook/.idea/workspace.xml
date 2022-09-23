@@ -23,6 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="HotReloadSettingsPage" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BulkyBookWeb">
@@ -67,6 +68,9 @@
       <updated>1663937487685</updated>
       <workItem from="1663937503390" duration="16000" />
       <workItem from="1663937535632" duration="445000" />
+      <workItem from="1663939193967" duration="55000" />
+      <workItem from="1663939281786" duration="245000" />
+      <workItem from="1663939542276" duration="4652000" />
     </task>
     <servers />
   </component>
